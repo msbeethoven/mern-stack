@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Backend with mongoose/mongodb to store db (cloud.mongodb.com).
+Backend with mongoose/[mongodb](cloud.mongodb.com) to store db.
 
 ## Available Scripts
 
